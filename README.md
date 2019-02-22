@@ -1,8 +1,7 @@
 # Drug-related questions classification, a challenge by POSOS
 ### By Ahmed Amine MAJDOUBI
 ---
-<br>
-**Note:** This is a challenge made by the company POSOS in 2018. Here is the original ***[link](https://www.college-de-france.fr/site/stephane-mallat/Challenge-2017-2018-Reponses-a-des-questions-pharmaceutiques-par-Posos.htm)*** for the challenge. POSOS is an NLP start-up aiming at answering questions about medication from non-structured biomedical sources. The goal of Posos challenge is to predict for each question the associated intent.
+***Important note:*** This is a challenge made by the company POSOS in 2018. Here is the original ***[link](https://www.college-de-france.fr/site/stephane-mallat/Challenge-2017-2018-Reponses-a-des-questions-pharmaceutiques-par-Posos.htm)*** for the challenge. POSOS is an NLP start-up aiming at answering questions about medication from non-structured biomedical sources. The goal of Posos challenge is to predict for each question the associated intent.
 
 ## Challenge Context
 
